@@ -1,2 +1,0 @@
-# Pruebas-de-Causalidad-Entre-La-Entropia-y-La-Inflacion
-El objetivo central del script  es verificar empíricamente la capacidad predictiva entre dos indicadores de entropía (entropia_conectados y entropia_global ) y la dinámica de precios medida por la inflación quincenal desestacionalizada. Utilizando una estructura de vectores autorregresivos  bivariados evaluada desde 1 hasta un máximo de 6 rezagos
